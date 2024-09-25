@@ -6,7 +6,7 @@ Scripts are provided in the *Scripts* directory.
 Data sets are provided in the *Data* directory.
 
 To produce the figures use the *Novel_experience_main_analysis.m* script.  
-Before running the script, change the path in the *repository_path* variable to the path containing the corresponding repository on your computer.
+Before running the script, change the path in the *data_path* variable to the path containing the corresponding repository on your computer.
 
 ## Compatibility
 Was tested on Windows 10 using Matlab 2022b.</br>
